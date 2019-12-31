@@ -1,0 +1,1092 @@
+﻿01
+Bến xe Gia Lâm - Ngô Gia Khảm - Ngọc Lâm - Nguyễn Văn Cừ - Cầu Chương Dương - Trần Nhật Duật – Yên Phụ - Hàng Đậu – Hàng Than – Quán Thánh - Hàng Cót - Hàng Gà - Hàng Điếu - Đường Thành - Phủ Doãn - Triệu Quốc Đạt - Hai Bà Trưng - Lê Duẩn - Khâm Thiên - Ô Chợ Dừa - Nguyễn Lương Bằng - Tây Sơn – Cầu vượt Ngã tư Sở - Nguyễn Trãi - Trần Phú (Hà Đông) - Quang Trung (Hà Đông) - Ba La - Quốc lộ 6 - Bến xe Yên Nghĩa
+02
+Bác Cổ - Trần Khánh Dư - Trần Hưng Đạo - Lê Thánh Tông - Hai Bà Trưng - Quang Trung - Tràng Thi - Điện Biên Phủ - Trần Phú - Chu Văn An - Tôn Đức Thắng - Nguyễn Lương Bằng - Tây Sơn - Ngã tư Sở - Nguyễn Trãi - Trần Phú (Hà Đông) - Quang Trung (Hà Đông) - Ba La - Quốc lộ 6 - Bến xe Yên Nghĩa
+03A
+Bến xe Giáp Bát - Giải Phóng - Lê Duẩn - Nguyễn Thượng Hiền - Yết Kiêu - Trần Hưng Đạo - Trần Khánh Dư - Trần Quang Khải - Trần Nhật Duật - Long Biên - Trần Nhật Duật - Cầu Chương Dương - Nguyễn Văn Cừ - Nguyễn Sơn - Ngọc Lâm - Ngô Gia Khảm - Bến xe Gia Lâm
+03B
+Bến xe Nước Ngầm - Ngọc Hồi - Giải Phóng - Bến xe Giáp Bát - Giải Phóng - Đại La - Minh Khai - Cầu Vĩnh Tuy - Đàm Quang Trung - Chu Huy Mân - Hội Xá - Vũ Xuân Thiều - Đường Phúc Lợi - Ngõ 193 Phúc lợi - Ngách 195/9 Phúc Lợi - Ngõ 195 Phúc Lợi - Phúc Lợi
+04
+Long Biên-Yên Phụ- Điểm trung chuyển Long Biên - Trần Nhật Duật - Nguyễn Hữu Huân - Lý Thái Tổ - Ngô Quyền - Hai Bà Trưng - Lê Thánh Tông - Trần Thánh Tông - Tăng Bạt Hổ - Yecxanh - Lò Đúc - Kim Ngưu - Nguyễn Tam Trinh-Cầu Voi- Tam Trinh - Đường Lĩnh Nam - Đường dẫn cầu Thanh Trì - Pháp Vân - Ngọc Hồi - BX Nước Ngầm
+05
+Linh Đàm - Nguyễn Duy Trinh - Nguyễn Hữu Thọ - Nghiêm Xuân Yêm - Kim Giang - Khương Đình - Nguyễn Trãi - Nguyễn Tuân - Hoàng Minh Giám - Nguyễn Chánh – Mạc Thái Tông - Trung Kính – Phạm Văn Bạch - Tôn Thất Thuyết - Nguyễn Hoàng - Hàm Nghi - Nguyễn Cơ Thạch - Hồ Tùng Mậu - Cầu Diễn – Phú Diễn - Ga Phú Diễn – Cồng làng Phú Diễn - Phú Diễn
+06A
+Bến xe Giáp Bát - Giải Phóng - Kim Đồng - Giải Phóng - Ngọc Hồi - Quốc Lộ 1 - Liên Ninh - Quán Gánh - Thị trấn Thường Tín - Tía - Đỗ Xá - Nghệ - Thị trấn Phú Xuyên - Guột - Cầu Giẽ
+06B
+Bến xe Giáp Bát - Giải Phóng - Kim Đồng - Giải Phóng - Ngọc Hồi - Thường Tín - đường 427 - Hồng Vân
+06C
+Bến xe Giáp Bát - Giải Phóng - Kim Đồng - Giải Phóng - Ngọc Hồi - Thường Tín - Tía - Ngã ba Đỗ Xá - đường 429 - Phú Minh
+06D
+Bến xe Giáp Bát - Giải Phóng - Kim Đồng - Giải Phóng - Ngọc Hồi - Thường Tín - Tía - Quốc lộ 1 - Tân Dân
+06E
+Bến xe Giáp Bát - Giải Phóng - Kim Đồng - Giải Phóng - Ngọc Hồi - Thường Tín - đường 429 - Phú Túc
+07
+Bãi đỗ xe Cầu Giấy - Cầu Giấy - Điểm trung chuyển Cầu Giấy - Cầu Giấy - Nguyễn Văn Huyên - Hoàng Quốc Việt - Phạm Văn Đồng - Cầu Thăng Long - Võ Văn Kiệt - Đường dưới cầu vượt Kim Chung - Võ Văn Kiệt - Sân bay Nội Bài
+08A
+Long Biên - Yên Phụ - Điểm trung chuyển Long Biên - Trần Nhật Duật - Nguyễn Hữu Huân - Lý Thái Tổ - Ngô Quyền - Lý Thường Kiệt - Bà Triệu - Lê Đại Hành - Bạch Mai - Lê Thanh Nghị - Trần Đại Nghĩa - Đại La - Giải Phóng - Đường Ngọc Hồi - Ngũ Hiệp - Đông Mỹ
+08B
+Long Biên - Nguyễn Hữu Huân - Lý Thái Tổ - Ngô Quyền - Lý Thường Kiệt- Bà Triệu - Lê Đại Hành - Bạch Mai - Lê Thanh Nghị - Đại La - Giải Phóng - Đường Vành Đai 3 - Tứ Hiệp - Đê Hữu Hồng - Vạn Phúc
+09A
+Bờ Hồ - Lê Thái Tổ - Tràng Thi - Điện Biên Phủ - Lê Hồng Phong - Đội Cấn - Liễu Giai – Nguyễn Chí Thanh –Đê La Thành-Kim Mã- Điểm trung chuyển Cầu Giấy - Bưởi - Võ Chí Công - Nguyễn Hoàng Tôn - Khu liên cơ quan Sở ngành Hà Nội
+09B
+Bờ Hồ - Lê Thái Tổ - Bà Triệu - Hồ Xuân Hương - Nguyễn Bỉnh Khiêm - Trần Nhân Tông - Lê Duẩn - Khâm Thiên - Nguyên Lương Bằng - Tây Sơn - Ngã Tư Sở - Láng - Yên Lãng - Thái Thịnh - Láng Hạ - Huỳnh Thúc Kháng - Nguyễn Chí Thanh - Chùa Láng - Đường Láng – Cầu Giấy – Trần Thái Tông - Tôn Thất Thuyết - Phạm Hùng – Bến xe Mỹ Đình
+10A
+Long Biên - Trần Nhật Duật - Yên Phụ - Điểm trung chuyển Long Biên - Trần Nhật Duật - Cầu Chương Dương - Nguyễn Văn Cừ - Ngô Gia Tự - Cầu Đuống - Hà Huy Tập – Đặng Phúc Thông - Trần Phú (Từ Sơn) - Minh Khai (Từ Sơn) - Từ Sơn
+10B
+Long Biên - Yên Phụ - Điểm trung chuyển Long Biên - Trần Nhật Duật - Cầu Chương Dương - Nguyễn Văn Cừ - Ngô Gia Tự - Cầu Đuống - Hà Huy Tập - Đặng Phúc Thông - Dốc Lã - Ninh Hiệp - Phù Đổng - Trung Mầu (Gia Lâm)
+11
+Công viên Thống Nhất - Trần Nhân Tông - Quang Trung - Trần Hưng Đạo - Phan Chu Trinh - Lý Thái Tổ - Ngô Quyền - Hàng Vôi - Hàng Tre - Hàng Muối - Long Biên - Trần Nhật Duật - Cầu Chương Dương - Đê Gia Thượng - Ngọc Lâm - Nguyễn Văn Cừ - Nguyễn Văn Linh - Nguyễn Đức Thuận - Ngô Xuân Quảng - Học viện Nông nghiệp Việt Nam
+12
+Công viên Nghĩa Đô - Nguyễn Văn Huyên - Nguyễn Khánh Toàn - Đào Tấn - Liễu Giai - Nguyễn Chí Thanh - Huỳnh Thúc Kháng - Thái Hà - Chùa Bộc - Tôn Thất Tùng -Trường Trinh - Lê Trọng Tấn - Trần Điền - Định Công - Giải Phóng - Ngọc Hồi - Đại Áng
+13
+Công viên nước Hồ Tây - Lạc Long Quân - Hoàng Quốc Việt - Nguyễn Văn Huyên - Tô Hiệu - Trần Quốc Hoàn - Phạm Văn Đồng - Hồ Tùng Mậu - Cầu Diễn - Hoàng Công Chất - Phan Bá Vành - Cầu Noi- Cổ Nhuế
+14
+Bờ Hồ - Cầu Gỗ - Hàng Thùng - Hàng Tre - Hàng Muối - Trần Nhật Duật - Yên Phụ - Điểm trung chuyển Long Biên - Hàng Đậu - Quán Thánh - Thụy Khuê – Lạc Long Quân- Hoàng Quốc Việt - Điểm trung chuyển xe buýt Hoàng Quốc Việt - Hoàng Quốc Việt - Phạm Văn Đồng-Ngõ 12 Phạm Văn Đồng -Tân Xuân - Cổ Nhuế
+15
+Bến xe Gia Lâm - Ngô Gia Khảm - Ngọc Lâm - Nguyễn Văn Cừ - Ngô Gia Tự - Cầu Đuống - Quốc Lộ 3 - Dốc Vân - Cổ Loa - Đường cái tránh Quốc lộ 3 - Quốc lộ 3 - Đông Anh - Nguyên Khê - Phủ Lỗ - Đa Phúc - Phố Nỉ
+16
+Bến xe Mỹ Đình - Phạm Hùng - Xuân Thủy - Cầu Giấy - Đường Láng - Ngã tư Sở - Trường Chinh - Ngã tư Vọng - Giải Phóng - Ngọc Hồi - Bến xe Nước Ngầm
+17
+Long Biên- Yên Phụ - Điểm trung chuyển Long Biên - Trần Nhật Duật - Cầu Chương Dương - Nguyễn Văn Cừ - Ngô Gia Tự - Cầu Đuống - Thiên Đức - Dốc Vân - Quốc lộ 3 - Nguyên Khê - Phủ Lỗ - Quốc lộ 2 - Đường nối Quốc lộ 2 và đường Võ Văn Kiệt, Võ Nguyên Giáp - Võ Nguyên Giáp - Võ Văn Kiệt - Sân bay Nội Bài
+18
+Đại học Kinh tế Quốc dân - Trần Đại Nghĩa - Đại La - Phố Vọng - Giải Phóng - Phương Mai - Lương Định Của - Đông Tác - Chùa Bộc - Tây Sơn - Thái Thịnh - Láng Hạ - Giảng Võ - Giang Văn Minh - Kim Mã - Nguyễn Thái Học - Lê Duẩn - Trần Phú - Phùng Hưng - Lê Văn Linh - Phùng Hưng - Phan Đình Phùng - Hàng Đậu - Trần Nhật Duật - Nguyễn Hữu Huân - Lý Thái Tổ - Ngô Quyền - Hai Bà Trưng - Lê Thánh Tông - Tăng Bạt Hổ - Nguyễn Công Trứ - Lò Đúc - Trần Khát Chân - Võ Thị Sáu - Thanh Nhàn - Lê Thanh Nghị - Trần Đại Nghĩa - Đại học Kinh tế Quốc dân
+19
+Trần Khánh Dư - Nguyễn Khoái - Dốc cầu Vĩnh Tuy - Vĩnh Tuy - Minh Khai - Đại La - Trường Chinh - Đường Láng - Nguyễn Trãi - Trần Phú (Hà Đông) - Quang Trung (Hà Đông) - Chu Văn An (Hà Đông) - Vạn Phúc (Hà Đông) - Tố Hữu - Lê Trọng Tấn - CV Thiên Đường Bảo Sơn - Lê Trọng Tần - đường nội bộ KĐT Sudico Nam An Khánh - Vinhomes Thăng Long
+20A
+Bãi đỗ xe Cầu Giấy - Cầu Giấy - Điểm trung chuyển Cầu Giấy – Cầu Giấy – Xuân Thủy – Hồ Tùng Mậu – Cầu Diễn – Nhổn - Trạm trung chuyển xe buýt Nhổn – Trôi – Phùng
+20B
+Bãi đỗ xe Cầu Giấy - Cầu Giấy - Điểm trung chuyển Cầu Giấy - Cầu Giấy - Xuân Thủy - Hồ Tùng Mậu - Cầu Diễn - Nhổn - Trạm trung chuyển xe buýt Nhổn - Trôi - Phùng - Phúc Thọ - Phố Chùa Thông (Sơn Tây) - Bến xe Sơn Tây
+20C
+Nhổn - Cầu Diễn - Tây Tựu - Thượng Cát - Đê Liên Trì - Đê Hữu Hồng - ngã 3 Lê Tổ - đường liên xã Liên Hồng, Hạ Mỗ, Hồng Hà - ngã 3 Tiên Tân - Tiên Tân - Trung Châu - Hát Môn - Võng Xuyên
+21A
+Bến xe Giáp Bát - Giải Phóng - Phố Vọng - Giải Phóng - Xã Đàn - Phạm Ngọc Thạch - Chùa Bộc - Tây Sơn - Ngã tư Sở - Nguyễn Trãi - Trần Phú (Hà Đông) - Quang Trung (Hà Đông) - Ba La - Quốc Lộ 6 - Bến xe Yên Nghĩa
+21B
+Khu đô thị Pháp Vân Tứ Hiệp - Ngõ 15 Ngọc Hồi - BX Nước Ngầm - Ngọc Hồi - Giải Phóng - Quảng trường Bến xe Giáp Bát - Giải Phóng - Phố Vọng - Giải Phóng - Xã Đàn - Phạm Ngọc Thạch - Chùa Bộc - Tây Sơn - Ngã tư Sở - Nguyễn Trãi - Khuất Duy Tiến - Phạm Hùng - Tôn Thất Thuyết - Phạm Hùng - BX Mỹ Đình
+22A
+Bến xe Gia Lâm - Ngô Gia Khảm - Ngọc Lâm - Nguyễn Văn Cừ - Cầu Chương Dương - Trần Nhật Duật - Yên Phụ - Điểm trung chuyển Long Biên - Hàng Đậu - Quán Thánh - Nguyễn Biểu - Hoàng Diệu - Trần Phú - Kim Mã - Nguyễn Chí Thanh - Trần Duy Hưng – Phạm Hùng – Đỗ Đức Dục – Miếu Đầm – Cầu vượt Mễ Trì – đường Cường Kiên – KĐT Trung Văn
+22B
+Khu đô thị Kiến Hưng - Đường nội bộ khu giãn dân Mậu Lương - Đường Mậu Lương - Đường Phúc La, Văn Phú - Phùng Hưng (Hà Đông) - Trần Phú (Hà Đông) - Nguyễn Trãi - Khuất Duy Tiến - Phạm Hùng - Bến xe Mỹ Đình
+22C
+Bến xe Giáp Bát - Giải Phóng - Kim Đồng - Giải Phóng - Nguyễn Hữu Thọ - Cầu Dậu - Nghiêm Xuân Yêm - Nguyễn Xiển - Nguyễn Trãi - Trần Phú (Hà Đông) - Quang Trung (Hà Đông) - Chu Văn An (Hà Đông) - Vạn Phúc - Tố Hữu - Đường trục Bắc Hà Đông - Khu đô thị Dương Nội
+23
+Điểm đỗ xe buýt 32 Nguyễn Công Trứ - Nguyễn Công Trứ - Phố Huế - Tuệ Tĩnh - Bà Triệu - Lê Đại Hành - Hoa Lư - Đại Cồ Việt - Tạ Quang Bửu - Lê Thanh Nghị - Giải Phóng - Phương Mai - Lương Đình Của - Đông Tác - Chùa Bộc - Tây Sơn - Đặng Tiến Đông - Trần Quang Diệu –Võ Văn Dũng - Hoàng Cầu - Đê La Thành - Giảng Võ - Nguyễn Thái Học - Cửa Nam – Hàng Bông - Phùng Hưng - Lê Văn Linh - Phùng Hưng - Phan Đình Phùng - Hàng Đậu – Trần Nhật Duật - Nguyễn Hữu Huân - Lý Thái Tổ - Ngô Quyền - Hai Bà Trưng - Lê Thánh Tông - Trần Hưng Đạo - Phan Huy Chú - Hàn Thuyên - Lê Văn Hưu - Ngô Thì Nhậm - Điểm đỗ xe buýt 32 Nguyễn Công Trứ
+24
+Long Biên - Trần Nhật Duật - Trần Quang Khải - Trần Khánh Dư - Trung chuyển xe buýt Trần Khánh Dư - Nguyễn Khoái - Minh Khai - Đại La - Trường Chinh - Ngã tư Sở - Đường Láng - Cầu Giấy
+25
+BV Nhiệt đới TW CS2 - đường nội bộ KCN Bắc Thăng Long - Hoàng Sa - Vo Nguyên Giáp - cầu Nhật Tân - Võ Chí Công - Nguyễn Hoàng Tôn - Lạc Long Quân – Hoàng Quốc Việt - Bưởi - Đào Tấn - Liễu Giai - Kim Mã – Nguyễn Thái Học – Trịnh Hoài Đức – Cát Linh - Tôn Đức Thắng - ô Chợ Dừa - Xã Đàn - Phạm Ngọc Thạch - Đào Duy Anh - Giải Phóng - Bến xe Giáp Bát
+26
+Mai Động - Nguyễn Tam Trinh - Cầu Voi - Nguyễn Tam Trinh- Kim Ngưu - Thanh Nhàn - Lê Thanh Nghị - Giải Phóng - Xã Đàn - Phạm Ngọc Thạch - Chùa Bộc - Thái Hà - Huỳnh Thúc Kháng - Nguyễn Chí Thanh - Đê La Thành - Cầu Giấy - Điểm trung chuyển Cầu Giấy - Cầu Giấy - Xuân Thuỷ - Hồ Tùng Mậu- Lê Đức Thọ - Sân vận động Quốc Gia
+27
+Bến xe Yên Nghĩa - Quốc Lộ 6 - Ba La - Quang Trung (Hà Đông) - Trần Phú (Hà Đông) - Nguyễn Trãi - Đường Láng - Nguyễn Chí Thanh - Kim Mã - Cầu Giấy - Trần Đăng Ninh - Nguyễn Phong Sắc - Trần Quốc Hoàn - Phạm Văn Đồng - Đỗ Nhuận - Nam Thăng Long
+28
+Bến xe Nước Ngầm - Ngọc Hồi - Giải Phóng - Quảng trường bến xe Giáp Bát - Giải Phóng - Xã Đàn - Ô Chợ Dừa - Hoàng Cầu - Đê La Thành - Giảng Võ - Ngọc Khánh - Kim Mã - Liễu Giai – Nguyễn Chí Thanh-Phố Chùa Láng-Đường Láng - Điểm trung chuyển Cầu Giấy - Cầu Giấy - Trần Đăng Ninh - Nguyễn Khánh Toàn - đường mới (cạnh công viên Nghĩa Đô) - Chùa Hà - Tô Hiệu - Nguyễn Phong Sắc - Trần Cung - Phạm Văn Đồng - ngõ 12 Phạm Văn Đồng- Tân Xuân - Hoàng Tăng Bí – Đức Thắng - Đại học Mỏ Địa Chất
+29
+Bến xe Giáp Bát - Giải Phóng - Kim Đồng - Trương Định - Giải Phóng - Nguyễn Hữu Thọ - Nghiêm Xuân Yêm - Nguyễn Xiển - Nguyễn Trãi - Nguyễn Tuân - Hoàng Minh Giám - Nguyễn Chánh - vòng xuyến Nguyễn Chánh - Nguyễn Chánh - Dương Đình Nghệ - Phạm Hùng - Hồ Tùng Mậu - Đường Cầu Diễn - Phố Nhổn - Quốc lộ 32 - Ngã 4 Trạm Trôi - Tân Lập - Tân Lập
+30
+Mai Động - Nguyễn Tam Trinh - Kim Ngưu - Lò Đúc - Trần Xuân Soạn - Trần Nhân Tông - Lê Duẩn - Khâm Thiên - Ô Chợ Dừa - Hoàng Cầu - Thái Hà - Láng Hạ - Lê Văn Lương - Hoàng Minh Giám - Nguyễn Chánh - Vòng xuyến Nguyễn Chánh, Nam Trung Yên - Nguyễn Chánh - Dương Đình Nghệ - Phạm Hùng - Bến xe Mỹ Đình
+31
+Đại học Bách Khoa - Trần Đại Nghĩa - Lê Thanh Nghị - Tạ Quang Bửu - Đại Cồ Việt - Phố Huế - Hàng Bài - Lý Thường Kiệt - Phan Chu Trinh - Lý Thái Tổ - Ngô Quyền - Hàng Vôi - Hàng Tre - Hàng Muối - Trần Nhật Duật - Điểm trung chuyển Long Biên - Yên Phụ - Nghi Tàm - Âu Cơ - Nhật Tân - An Dương Vương - Đường Đông Ngạc (69) – Thụy Phương – Đức Thắng,Cổ Nhuế - Chèm
+32
+Bến xe Giáp Bát - Giải Phóng - Lê Duẩn - Trần Nhân Tông - Trần Bình Trọng - Trần Hưng Đạo - Quán Sứ - Hai Bà Trưng - Thợ Nhuộm - Tràng Thi - Điện Biên Phủ - Trần Phú - Kim Mã -Đào Tấn- Đường Bưởi -Cầu Giấy -Điểm trung chuyển Cầu Giấy-Cầu Giấy - Xuân Thuỷ - Hồ Tùng Mậu - đường Cầu Diễn - Nhổn
+33
+Bến xe Yên Nghĩa - Quốc lộ 6 – Quang Trung (Hà Đông) - Trần Phú (Hà Đông) - Nguyễn Văn Lộc - Vũ Trọng Khánh - Tố Hữu - Trung Văn - đường Cương Kiên - cầu vượt Mễ Trì - đường Miếu Đầm - Đỗ Đức Dục - Phạm Hùng - Phạm Văn Đồng - Hoàng Quốc Việt - Bưởi - Lạc Long Quân - Xuân La - Xuân Đỉnh
+34
+Bến xe Mỹ Đình - Phạm Hùng - Xuân Thủy - Cầu Giấy - Điểm trung chuyển Cầu Giấy - Cầu Giấy - Kim Mã - Nguyễn Thái Học - Phan Bội Châu - Lý Thường Kiệt - Quang Trung - Hai Bà Trưng - Phan Chu Trinh - Lý Thái Tổ - Ngô Quyền - Hàng Vôi - Hàng Tre - Hàng Muối - Trần Nhật Duật – Cầu Chương Dương - Nguyễn Văn Cừ - Nguyễn Sơn - Ngọc Lâm - Ngô Gia Khảm - Bến xe Gia Lâm
+35A
+Trần Khánh Dư - Trần Hưng Đạo - Bà Triệu - Đại Cồ Việt - Hầm Kim Liên - Xã Đàn - Phạm Ngọc Thạch - Chùa Bộc - Thái Hà - Huỳnh Thúc Kháng - Nguyễn Chí Thanh - Trần Duy Hưng - Phạm Hùng - Phạm Văn Đồng - Đỗ Nhuận - Nam Thăng Long
+35B
+Nam Thăng Long – Đỗ Nhuận - Phạm Văn Đồng - Cầu Thăng Long - Võ Văn Kiệt - Ngã Tư Nam Hồng - cầu vượt Nam Hồng - Quốc Lộ 23B - Thanh Lâm ( Mê Linh )
+36
+Yên Phụ - Hàng Đậu - Hàng Cót - Hàng Gà - Hàng Điếu - Đường Thành - Phủ Doãn - Triệu Quốc Đạt - Hai Bà Trưng - Bà Triệu - Lê Đại Hành - Đại Cồ Việt - Bạch Mai - Trương Định - Giải Phóng - Nguyễn Hữu Thọ - Nguyễn Duy Trinh - Khu đô thị Linh Đàm
+37
+Bến xe Giáp Bát - Giải Phóng - Kim Đồng - Trương Định - Giải Phóng - đường Hoàng Liệt - KĐT Linh Đàm - Nguyễn Hữu Thọ - Cầu Dậu - Kim Giang - Phan Trọng Tuệ - Phùng Hưng (Hà Đông) - Tố Hữu- Tô Hiệu - Quang Trung (Hà Đông) - Ba La - Quốc Lộ 6 - Yên Nghĩa - Cầu Mai Lĩnh - Biên Giang - Chương Mỹ
+38
+Nam Thăng Long - Đỗ Nhuận - Phạm Văn Đồng - Hoàng Quốc Việt - Nguyễn Văn Huyên - Nguyễn Khánh Toàn - Bưởi - Cầu Giấy - Điểm trung chuyển Cầu Giấy - Kim Mã - Nguyễn Thái Học - Lê Duẩn - Trần Hưng Đạo - Bà Triệu - Lê Đại Hành - Bạch Mai - Minh Khai - Tam Trinh - Cầu Voi - Nguyễn Tam Trinh - Mai Động
+39
+Công viên Nghĩa Đô - Nguyễn Văn Huyên - Nguyễn Khánh Toàn - Trần Đăng Ninh - Nguyễn Phong Sắc - Trần Thái Tông - Tôn Thất Thuyết - Phạm Hùng - Khuất Duy Tiến - Nguyễn Trãi - Trần Phú (Hà Đông) - Nguyễn Khuyến (Hà Đông) - Đường nội bộ Khu Đô thị Văn Quán (Hà Đông) - Phùng Hưng (Hà Đông) - Đường Cầu Bươu - Đường 70 - Phan Trọng Tuệ - Ngọc Hồi – Đường Nguyễn Bồ - Tứ Hiệp
+40
+Công viên Thống Nhất - Quang Trung - Trần Hưng Đạo –Quán Sứ - Hai Bà Trưng - Phan Chu Trinh – Tràng Tiền - Trần Khánh Dư - Nguyễn Khoái – Cầu Vĩnh Tuy – Đường Cổ Linh - Thạch Bàn - Nguyễn Văn Linh – Nguyễn Đức Thuận – Nguyễn Bình - Như Quỳnh - Văn Lâm
+41
+Nghi Tàm - Đường Âu Cơ - Nghi Tàm - Yên Phụ - Yên Phụ - Trung chuyển Long Biên – Hàng Đậu – Quán Thánh – Cửa Bắc - Nguyễn Tri Phương - Điện Biên Phủ - Chu Văn An - Tôn Đức Thắng - Khâm Thiên - Lê Duẩn - Giải Phóng - Bến xe Giáp Bát
+42
+Bến xe Giáp Bát – Giải Phóng – Kim Đồng – Tân Mai - Nguyễn Tam Trinh- Kim Ngưu- Lò Đúc- Yecxanh – Trần Thánh Tông - Trần Hưng Đạo- Trần Quang Khải - Cầu Chương Dương - Nguyễn Văn Cừ - Ngô Gia Tự - Đức Giang
+43
+Công viên Thống Nhất - Trần Nhân Tông - Quang Trung - Trần Hưng Đạo - Trần Quang Khải - Cầu Chương Dương - Nguyễn Văn Cừ - Ngô Gia Tự - Cầu Đuống - Đường Thiên Đức - Quốc Lộ 3 - Đường cải tránh Quốc lộ 3 - Quốc lộ 3 - Cao Lỗ - Thị trấn Đông Anh
+44
+Trần Khánh Dư - Trần Hưng Đạo - Tăng Bạt Hổ - Nguyễn Công Trứ - Lò Đúc - Trần Khát Chân - Đại Cồ Việt - Đào Duy Anh - Phạm Ngọc Thạch - Chùa Bộc - Tây Sơn - Nguyễn Trãi - Nguyễn Tuân - Hoàng Minh Giám – Nguyễn Chánh – Dương Đình Nghệ - Phạm Hùng - BX Mỹ Đình
+45
+Times City - Minh Khai - Nguyễn Khoái - Trần Khánh Dư - Trần Hưng Đạo - Lê Thánh Tông - Lý Thường Kiệt - Quang Trung - Tràng Thi - Điện Biên Phủ - Hoàng Diệu - Nguyễn Biểu - Quán Thánh - Thụy Khuê - Hoàng Quốc Việt - Phạm Văn Đồng - Đỗ Nhuận - Bãi đỗ xe Nam Thăng Long
+46
+Bến xe Mỹ Đình - Phạm Hùng - Phạm Văn Đồng - Cầu Thăng Long - Đường 6 km (Vĩnh Ngọc) - Vân Trì - Đường 5 kéo dài - Đường 6 km (Vĩnh Ngọc) - Quốc lộ 3 - Đường Cổ Loa - Thị trấn Đông Anh
+47A
+Long Biên - Yên Phụ - Điểm trung chuyển Long Biên - Trần Nhật Duật - Cầu Chương Dương - Đê Long Biên - Bát Tràng
+47B
+ĐH Kinh tế Quốc dân - Đại La - Giải Phóng - Lê Thanh Nghị - Thanh Nhàn – Kim Ngưu – Minh Khai - Cầu Vĩnh Tuy - Cổ Linh - Thạch Bàn - Đê Xuân Quan – Đông Dư - Văn Đức - đường ĐT378 - Văn Giang - đường ĐT179 - Kiêu Kỵ
+48
+Savico Long Biên - Nguyễn Văn Cừ - Cầu Chương Dương - Trần Quang Khải - Nguyễn Khoái - Đê tả sông Hồng - Lĩnh Nam - Đường dẫn Vành đai 3 - Ngọc Hồi - Bến xe Nước Ngầm
+49
+Trần Khánh Dư - Trần Hưng Đạo - Lê Thánh Tông - Lý Thường Kiệt - Lê Duẩn - Khâm Thiên - Ô Chợ Dừa - La Thành - Cầu Giấy – Xuân Thủy - Hồ Tùng Mậu - Nguyễn Cơ Thạch - Trần Hữu Dực - đường mới (đoạn gần tòa nhà Hateco Apollo) - Nhổn
+50
+Long Biên - Yên Phụ - Trần Nhật Duật - Yên Phụ - Điểm trung chuyển Long Biên - Yên Phụ - Đường Thanh Niên - Hùng Vương - Phan Đình Phùng - Hoàng Diệu - Trần Phú - Kim Mã - Giảng Võ - Hào Nam - Hoàng Cầu - Thái Hà - Láng Hạ - Láng - Trần Duy Hưng - Phạm Hùng - Mễ Trì - Lê Quang Đạo - Lê Đức Thọ - Sân vận động Quốc gia
+51
+Trần Khánh Dư -Nguyễn Khoái - Minh Khai - Lạc Trung - Thanh Nhàn - Võ Thị Sáu - Trần Khát Chân - Đại Cổ Việt - Xã Đàn - Phạm Ngọc Thạch - Chùa Bộc - Tây Sơn - Thái Thịnh - Yên Lãng - Đường Láng - Trần Duy Hưng - Trung Hòa - Vũ Phạm Hàm - Trung Kính - Phạm Văn Bạch - Trần Thái Tông - Xuân Thủy -Hồ Tùng Mậu - Trần Vỹ - Trần Vỹ
+52A
+Công viên Thống Nhất - Trần Nhân Tông - Bà Triệu - Lê Đại Hành - Bạch Mai - Minh Khai - Cầu Mai Động - Minh Khai - Cầu Vĩnh Tuy - Đàm Quang Trung - Cổ Linh - Thạch Bàn - Nguyễn Văn Linh - Nguyễn Đức Thuận - Cầu vượt Phú Thụy - Đường Ỷ Lan - Dương Xá - Ngã 4 Sủi - Đường 181 - Phú Thị - Keo - Kim Sơn - Lệ Chi
+52B
+Công viên Thống Nhất - Trần Nhân Tông - Bà Triệu - Lê Đại Hành - Bạch Mai - Minh Khai - Cổ Linh - Thạch Bàn - Nguyễn Đức Thuận - Kiêu Kỵ - Đường Ỷ Lan - Đặng Xá
+53A
+Điểm đỗ xe buýt Hoàng Quốc Việt - Hoàng Quốc Việt - Điểm trung chuyển xe buýt Hoàng Quốc Việt - Hoàng Quốc Việt - Phạm Văn Đồng - Cầu Thăng Long - Võ Văn Kiệt - Quốc lộ 23 - Cầu tránh Vân Trì - Quốc lộ 23 - Đường Cao Lỗ - Thị trấn Đông Anh
+53B
+Bến xe Mỹ Đình - Phạm Hùng - Phạm Văn Đồng - cầu Thăng Long - Võ Văn Kiệt - Khu công nghiệp Quang Minh - đường Chi Đông - Thị trấn Chi Đông
+54
+Long Biên - Yên Phụ - Điểm trung chuyển Long Biên - Trần Nhật Duật - Cầu Chương Dương - Nguyễn Văn Cừ - Ngô Gia Tự - Cầu Đuống - Hà Huy Tập – Đặng Phúc Thông – Trần Phú ( Từ Sơn) – Minh Khai( Từ Sơn) –Hai Bà Trưng( Tiên Du) - Nguyễn Văn Cừ (Bắc Ninh) - Ngô Gia Tự (Bắc Ninh) - Đường Kinh Dương Vương - Thành phố Bắc Ninh
+55A
+Times City - Minh Khai - Nguyễn Khoái - Trần Khánh Dư - Trần Quang Khải - Trần Nhật Duật - ĐTC Long Biên - Yên Phụ - Nghi Tàm - Âu Cơ - Lạc Long Quân - Bưởi - Nút giao Láng, Cầu Giấy - ĐTC Cầu Giấy - BĐX Cầu Giấy
+55B
+TTTM Aeol Mall - Cổ Linh - Cầu Vĩnh Tuy - Nguyễn Khoái - Trần Khánh Dư - Trần Quang Khải - Trần Nhật Duật - ĐTC Long Biên - Yên Phụ - Nghi Tàm - Âu Cơ - Lạc Long Quân - Bưởi - Cầu Giấy - ĐTC Cầu Giấy - BĐX Cầu Giấy
+56A
+Nam Thăng Long – Đỗ Nhuận - Phạm Văn Đồng - Cầu Thăng Long - Võ Văn Kiệt - Quốc lộ 2 - đường mới dọc hầm chui QL2 - Tỉnh lộ 131 - KCN Nội Bài - Thị trấn Sóc Sơn - Đường Núi Đôi - Núi Đôi
+56B
+Học viện Phật Giáo VN - đường vào đền Sóc - QL3 - Tỉnh lộ 131 - đường Núi Đôi - Tỉnh lộ 131 - Đê Lương Phúc - Thôn Ngô Đạo - Ngã ba Tân Thành - Tỉnh lộ 296 - Bắc Phú - Tân Minh - Núi Đôi - đường Núi Đôi - Tỉnh lộ 131 - QL3 - Sóc Sơn - đường vào đền Sóc - Học viện Phật Giáo VN
+57
+Nam Thăng Long - Phạm Văn Đồng - Tân Xuân - Chân Cầu Thăng Long - Hoàng Tăng Bí - Cầu Liên Mạc 2 - Tân Phong - Yên Nội - Văn Tiến Dũng - Quốc lộ 32 - Nhổn - Quốc lộ 32 - Ngã tư Nhổn - Tỉnh lộ 70 - Xuân Phương - Tây Mỗ - Đại Mỗ - Vạn Phúc - Ngã tư bưu điện Hà Đông - Quang Trung (Hà Đông) – Ba La – Quốc Lộ 6 – Yên Nghĩa - Đồng Mai – Cầu Mai Lĩnh – Biên Giang – Chúc Sơn – KCN Phú Nghĩa
+58
+Yên Phụ - Điểm trung chuyển Long Biên - Trần Nhật Duật - Yên Phụ - Nghi Tàm - Âu Cơ - An Dương Vương - Tân Xuân - Cầu Thăng Long - Võ Văn Kiệt - Quốc Lộ 2 - Trạm thu phí số 1 QL 2 - Hai Bà Trưng (Phúc Yên - Vĩnh Phúc) - Lý Nam Đế - Lê Ngọc Hân - Lý Thường Kiệt - Triệu Thị Khoan Hòa - Nguyễn Trãi (Phúc Yên - Vĩnh Phúc) - Quốc lộ 23B - Đường 35 - Thạch Đà
+59
+TT Đông Anh - Cao Lỗ - QL3 - Nút giao Vạn Lộc - Trường Sa - cầu Đông Trù - Lý Sơn - Ngô Gia Tự - Vũ Đức Thuận - Việt Hưng - đường BT08, BT07 KĐT Việt Hưng - Nguyễn Cao Luyện - Lưu Khánh Đàm - Phúc Lợi - Đê Vàng - Cổ Bi - Ngô Xuân Quảng - HV Nông Nghiệp VN
+60A
+KĐT Pháp Vân Tứ Hiệp - Ngõ 83 Ngọc Hồi - Ngọc Hồi - Nguyễn Hữu Thọ - Cầu Dậu - Nghiêm Xuân Yêm - Nguyễn Xiển - Nguyễn Trãi - Nguyễn Tuân - Lê Văn Lương - Hoàng Đạo Thúy - Trần Duy Hưng - Phạm Hùng - Phạm Văn Đồng - Nguyễn Hoàng Tôn - Lạc Long Quân - CV nước Hồ Tây
+60B
+Bến xe Nước Ngầm - Giải Phóng - Nguyễn Hữu Thọ - Cầu Dậu - Kim Giang - Khương Đình - Nguyễn Trãi - Nguyễn Tuân - Lê Văn Lương - Hoàng Đạo Thúy - Trần Duy Hưng - Phạm Hùng - Phạm Văn Đồng - Cầu Thăng Long - Võ Văn Kiệt - KCN Bắc Thăng Long - Khu công nhân Kim Chung - BV Bệnh nhiệt đới Trung ương cơ sở II
+61
+Vân Hà (Đông Anh) - Việt Hùng - Cao Lỗ - Quốc lộ 23 B - Võ Văn Kiệt - Cầu Thăng Long - Phạm Văn Đồng - Phạm Hùng - Tôn Thất Thuyết - Trần Thái Tông - Thành Thái - CV Cầu Giấy
+62
+Bến xe Yên Nghĩa - Quốc lộ 6 - Ba La - Quang Trung (Hà Đông) - Tô Hiệu (Hà Đông) - Cầu Đen - Phùng Hưng (Hà Đông) - Đường Cầu Bươu - Đường 70 - Phan Trọng Tuệ - Ngọc Hồi - Quốc Lộ 1 - Liên Ninh - Quán Gánh - Bến xe Thường Tín
+63
+KCN Bắc Thăng Long - Đi Thẳng Quốc lộ 2 - Đạm Nội - Bạch Trữ - Cầu Soi - Bạch Trữ - Tự Lập - Liên Mạc - Tiến Thịnh (Mê Linh)
+64
+BX Mỹ Đình - Phạm Văn Đồng - KCN Bắc Thăng Long - Cao tốc Bắc Thăng Long Nội Bài - Quốc Lộ 2 - Tỉnh Lộ 35 - Quốc lộ 3 - Phố Nỉ
+65
+Thụy Lâm - Cao Lỗ - Việt Hùng - Dục Nội - Dục Tú - Lộc Hà - Quốc lộ 3 - Đông Hội - Đường 5 kéo dài - Cầu Đông Trù - Đường 5 kéo dài - Nguyễn Văn Cừ - Cầu Chương Dương - Trần Nhật Duật - Long Biên
+72
+BX Yên Nghĩa - Quốc lộ 6 - Cầu Mai Lĩnh - Biên Giang - Chúc Sơn - Phú Nghĩa - Xuân Mai
+74
+Bến xe Mỹ Đình - Phạm Hùng - Đường Mễ Trì - Lê Quang Đạo - Đại lộ Thăng Long - KCN cao Hòa Lạc - Quốc lộ 21 - Viện 105 - Đường 414 - Xuân Khanh - trường Đại học Lao động xã hội
+84
+Khu đô thị Mỹ Đình I - Trần Hữu Dực - Lê Đức Thọ - Nguyễn Hoàng - Phạm Hùng - Bến xe Mỹ Đình - Phạm Hùng - Dương Đình Nghệ - Trung Kính - Hạ Yên - Trần Kim Xuyến - Trung Hòa - Trần Duy Hưng - Nguyễn Thị Định - Lê Văn Lương - Láng - Yên Lãng - Thái Hà - Tây Sơn - Trường Chinh - Vương Thừa Vũ - Hoàng Văn Thái - Lê Trọng Tấn - Đường ven sông Lừ - Nguyễn Cảnh Dị - Nguyễn Hữu Thọ - Nguyễn Duy Trinh - KĐT Linh Đàm
+85
+Công viên Nghĩa Đô - Nguyễn Văn Huyên - Nguyễn Khánh Toàn - Trần Đăng Ninh - Cầu Giấy - Dịch Vọng - Thành Thái - Đường ven Công viên Cầu Giấy -Dương Đình Nghệ - Trung Kính - Mạc Thái Tổ - Nguyễn Chánh - Hoàng Minh Giám - Lê Văn Lương - Tố Hữu – Vũ Trọng Khánh - Nguyễn Văn Lộc - Trần Phú (Hà Đông) - Nguyễn Khuyến (Hà Đông) - Đường 19/5 - Tô Hiệu (Hà Đông) - Khu đô thị Văn Phú
+87
+Bến xe Mỹ Đình - Phạm Hùng - Đại lộ Thăng Long - Cầu vượt Hoàng Xá (Quốc Oai) - Quốc Oai - Thạch Thán - Tỉnh lộ 421B - Quốc lộ 6 - Thị trấn Xuân Mai
+88
+BX Mỹ Đình - Phạm Hùng - Mễ Trì - Lê Quang Đạo - Đại lộ Thăng Long - cầu vượt Hòa Lạc - Quốc lộ 21B - đường Hồ Chí Minh - Xuân Mai
+89
+Bến xe Yên Nghĩa - Quang Trung (Hà Đông)- Chu Văn An (Hà Đông)- Vạn Phúc - Đại Mỗ - Tây Mỗ - Tỉnh Lộ 72 - Thị trấn Quốc Oai - Đại Lộ Thăng Long - Thạch Thất - KCN Chàng Sơn - đường tỉnh lộ 419 (Thạch Thất) - Quốc lộ 32 - Bến xe Sơn Tây
+90
+Kim Mã - Giảng Võ - Núi Trúc - Kim Mã - Liễu Giai - Văn Cao - Thụy Khuê - Lạc Long Quân - Nguyễn Hoàng Tôn - Võ Chí Công - Cầu Nhật Tân - Võ Nguyên Giáp - Bãi đỗ xe Nhà ga nội địa T1 (trả khách tại Bãi đỗ xe T1)- Võ Nguyên Giáp - Bãi đỗ xe Nhà ga quốc tế T2
+91
+Bến xe Yên Nghĩa - Quốc lộ 6 - Ba La - Phố Xốm - Quốc lộ 21B (Thanh Oai) - Tỉnh lộ 429 (Phú Xuyên) - Phú Túc (Phú Xuyên)
+92
+Nhổn - đường Cầu Diễn - đường Cầu Diễn - Phố Nhổn - Quốc lộ 32 - thị trấn Tây Đằng (Ba Vì) - Đường 411 - Tây Đằng
+93
+Nam Thăng Long - Đỗ Nhuận - Phạm Văn Đồng - cầu Thăng Long - Võ Văn Kiệt - Quốc lộ 2 - Quốc lộ 3 - Tỉnh lộ 35 - đường nối xã Bắc Sơn, Hồng Kỳ - Bắc Sơn (Sóc Sơn)
+94
+Bến xe Giáp Bát - Giải Phóng - Kim Đồng - Trương Định - Giải Phóng - Ngọc Hồi - Cầu Quán Gánh - Thị trấn Thường Tín - Tỉnh lộ 427B - Quốc lộ 21B - Thị trấn Kim Bài
+95
+Nam Thăng Long – Đỗ Nhuận - Phạm Văn Đồng - Cầu Thăng Long - Võ Văn Kiệt - Quốc lộ 2A - đường nối quốc lộ 2, Đường liên thôn xã Minh Trí- Cầu Tre - Trường Chinh - Nguyễn Văn Linh (Phúc Yên) - Xuân Hòa
+96
+Công viên Nghĩa Đô - Nguyễn Văn Huyên - Hoàng Quốc Việt - vòng xuyến Bưởi - Bưởi - Võ Chí Công - cầu Nhật Tân - Võ Nguyên Giáp - Hoàng Sa - Vân Trì - Quốc lộ 23 - Nam Hồng - Đường 12 - ngã ba Bắc Hồng - Nguyên Khê - cầu vượt Nguyên Khê - đường Nguyên Khê - Lê Hữu Tựu - ngã tư Quốc lộ 3 (Nguyên Khê) - Quốc lộ 3 - ngã tư 1/5 (Quốc lộ 3) - đường nội bộ Thị trấn Đông Anh - đường Uy Nỗ - Đông Anh
+97
+Hoài Đức - Tỉnh lộ 422 - Ngã tư Sơn Đồng - Tỉnh lộ 422B - đường Vân Canh - ngã tư Canh - đường Xuân Phương – Phố Trịnh Văn Bô - Trần Hữu Dực kéo dài - Trần Hữu Dực - Lê Đức Thọ - Nguyễn Hoàng - Phạm Hùng - Duy Tân - Thành Thái - Trương Công Giai - Trần Quý Kiên - Trần Đăng Ninh - Nguyễn Phong Sắc - Tô Hiệu - Nguyễn Văn Huyên - Công Viên Nghĩa Đô
+98
+Yên Phụ - Điểm trung chuyển Long Biên - Yên Phụ - Trần Nhật Duật - Cầu Chương Dương - Đê Xuân Quan - Ngọc Thụy - Đức Giang - Ngô Gia Tự - Nguyễn Cao Luyện - Lưu Khánh Đàm - Hội Xá - Vũ Xuân Thiều - Thạch Bàn - Cổ Linh - Aeon Mall Long Biên
+99
+Kim Mã - Giảng Võ - Hào Nam - Hoàng Cầu - Ô Chợ Dừa - Xã Đàn - Nam Đồng - Đặng Văn Ngữ - Phạm Ngọc Thạch - Đông Tác - Lương Định Của - Phương Mai - Giải Phóng - Trường Chinh - Phố Vọng - Nguyễn An Ninh - Trương Định - Tân Mai - cầu Đền Lừ - Tam Trinh - đường Vành đai 3 - Ngọc Hồi - ngõ 83 Ngọc Hồi - Trần Thủ Độ - đường vào Bệnh viện Nội Tiết TW cơ sở 2 - Bệnh viện Nội Tiết TW cơ sở 2
+100
+Yên Phụ - Điểm trung chuyển Long Biên – Yên Phụ - Trần Nhật Duật - Cầu Chương Dương - Nguyễn Văn Cừ - Nguyễn Sơn – Lâm Hạ - Ngõ 200 Nguyễn Sơn – Hoàng Như Tiếp - Cổ Linh – Cầu vượt đường Cổ Linh – Cổ Linh - Thạch Bàn – Nguyễn Văn Linh – Nguyễn Đức Thuận – Khu đô thị Đặng Xá – Đường nội bộ ĐX2 - Đường vành đai nội bộ KĐT Đặng Xá – KĐT Đặng xá
+101A
+Bến xe Giáp Bát - Giải Phóng - Kim Đồng - Trương Định - Giải Phóng - Ngọc Hồi - Liên Ninh - Quán Gánh - Thường Tín - Tía - Đỗ Xá - Nghệ - Phú Xuyên - Guột - Quốc lộ 1 - Hoàng Quốc Việt - Tỉnh lộ 428 - Chợ Cháy - Trần Đăng Ninh (Vân Đình) - Quốc lộ 21B - Vân Đình
+101B
+BX Giáp Bá -Giải Phóng-Kim Đồng-Trương Định-Ngọc Hồi-Liên Ninh-Thường Tín-Tía-Đỗ Xá-Phú Xuyên-Guột-QL1-Hoàng Quốc Việt-Tỉnh lộ 428-Đại Cường
+102
+Bến xe Yên Nghĩa - Quang Trung (Hà Đông) - Cầu Mai Lĩnh - Biên Giang (Hà Đông) - Quốc lộ 6 - Thị trấn Chúc Sơn - Bắc Sơn - Hòa Sơn - Yên Sơn - Tỉnh lộ 419 - Tỉnh lộ 429B - Quốc lộ 21B - Lê Lợi (Vân Đình) - Vân Đình
+103A
+Bến xe Mỹ Đình - Phạm Hùng - Khuất Duy Tiến - Tố Hữu - Mỗ Lao - Nguyễn Văn Lộc - Nguyễn Trãi - Trần Phú (Hà Đông) - Phùng Hưng (Hà Đông) - Phúc La, Văn Phú - Đường trục Nam tỉnh Hà Tây - đường nối trục Nam tỉnh Hà Tây và tỉnh lộ 427 qua xã Tam Hưng - Tỉnh lộ 427B - Quốc lộ 21B - Tỉnh lộ 424 - Tỉnh lộ 419 - Hương Sơn (Mỹ Đức)
+103B
+BX Mỹ Đình – Phạm Hùng – Khuất Duy Tiến – Tố Hữu – Vũ Trọng Khánh – Nguyễn Văn Lộc – Trần Phú – Phùng Hưng – đường Phúc La, Văn Phú – Tỉnh lộ 427B – QL21B – Tỉnh lộ 425 – Hồng Quang
+104
+Mỹ Đình- Lê Đức Thọ - đường vào trường Cao đẳng nghề Trần Hưng Đạo - Mỹ Đình - Thiên Hiền - Phạm Hùng - Dương Đình Nghệ - Trung Kính - Vũ Phạm Hàm - Nguyễn Khang - Nguyễn Ngọc Vũ - Giáp Nhất - Nguyễn Trãi - Khương Trung - Vũ Tông Phan - ngõ 2 Định Công Thượng - Đặng Xuân Bảng - Nguyễn Hữu Thọ - Khu đô thị Linh Đàm - Hoàng Liệt - Ngọc Hồi - Bến xe Nước Ngầm
+105
+Đô Nghĩa- Yên Lộ - Lê Trọng Tấn (Hà Đông) - Quang Trung (Hà Đông) - Tô Hiệu (Hà Đông) - Lê Hồng Phong (Hà Đông) - Lê Lợi (Hà Đông) - Hà Trì - Đa Sỹ - đường Phúc La, Văn Phú - Phùng Hưng (Hà Đông) - Trần Phú (Hà Đông) - Nguyễn Trãi - Nguyễn Tuân - Lê Văn Lương - Hoàng Đạo Thúy - Trần Duy Hưng - Trung Hòa - Vũ Phạm Hàm - Nguyễn Khang - Cầu Giấy
+106
+KĐT Mỗ Lao - Mỗ Lao - Trần Phú (Hà Đông) - Phùng Hưng (Hà Đông) - Cầu Bươu –Kim Giang - Cầu Quang - Bằng Liệt - Đường nội bộ KĐT Linh Đàm - Hoàng Liệt - Giải Phóng - Bến xe Giáp Bát - Giải Phóng - Kim Đồng - Tân Mai - Đường ven hồ Đền Lừ - Đường Hồ Đền Lừ - đường Hoàng Mai - Tân Mai - Đường nội bộ KĐT Vĩnh Hoàng - Đường nội bộ KCN Hoàng Mai - Lĩnh Nam - Vĩnh Hưng - Đê Nguyễn Khoái - Cầu Vĩnh Tuy - Cổ Linh - TTTM Aeon mall Long Biên
+107
+Kim Mã - Giảng Võ - Núi Trúc - Kim Mã - Nguyễn Chí Thanh - Trần Duy Hưng - Đại lộ Thăng Long - Đường nội bộ Khu công nghệ cao Láng Hòa Lạc - Đường mới nối Khu công nghệ cao Láng Hòa Lạc với Quốc lộ 21 - Quốc lộ 21 - Ngã 4 Hòa Lạc - Đường làng văn hóa (Thạch Thất) - Làng văn hóa du lịch các dân tộc Việt Nam
+108
+Bến xe Thường Tín - Quốc lộ 1A - Tỉnh lộ 428 - Minh Tân
+109
+Bến xe Mỹ Đình – Phạm Hùng - Phạm Văn Đồng - Cầu Thăng Long - Võ Văn Kiệt - Sân bay Nội Bài
+110
+Bến xe Sơn Tây - Chùa Thông - Tỉnh lộ 414 - đường nối tỉnh lộ 414, vườn Quốc gia Ba Vì - Tỉnh lộ 414 - Đá Chông
+111
+Bến xe Sơn Tây - Chùa Thông - ngã 3 Vị Thủy - đường 423 - Đường 91 - thị xã Sơn Tây - Bát Bạt
+112
+KCN Bắc Thăng Long - Đại Mạch - Đê Tả Hồng - Xã Thạch Đà - Thạch Đà
+113
+Đại Thắng (Phú Xuyên) - đường liên xã (Đại Thắng)- QL1A - đường liên xã ( Nhân Vực) - đê Sông Hồng -Bến đò Vườn Chuối
+BRT01
+Bến xe Yên Nghĩa - Quốc lộ 6 - Ba La - Quang Trung (Hà Đông) - Lê Trọng Tấn - Tố Hữu - Lê Văn Lương - Láng Hạ - Giảng Võ - Giang Văn Minh - Kim Mã
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
