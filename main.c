@@ -177,32 +177,64 @@ void shortestPath(graph g, char *start, char *des) {
     busToCatch(g, path, n) ;
 }
 
+void standardize(char *s) {
+    
+    while (s[0] == ' ')
+        memmove(&s[0], &s[1], strlen(s)) ;
+    while (s[strlen(s) - 1] == ' ') s[strlen(s) - 1] = '\0' ;
+    for (int i = 0; i < strlen(s); i++)
+        if (s[i] >= 'A' && s[i] <= 'Z') {
+            s[i] = s[i] - 'A' + 'a' ;
+        }
+}
+
 int main() {
     
     graph g = createGraph() ;
     inputBusStop(g) ;
     inputEdges(g) ;
     inputBusinStop(g) ;
-
-    char s[100], f[100] ;
-    char c ;
-    int i = 0;
-    printf("Enter starting stop: ") ;
-    while ((c = getc(stdin)) != '\n') {
-        s[i] = c;
-        i++ ;
-    }
-    s[i] = '\0' ;
-    i = 0;
-    printf("Enter destination: ") ;
-    while ((c = getc(stdin)) != '\n') {
-        f[i] = c;
-        i++ ;
-    }
-    f[i] = '\0' ;
+    int task ;
     
-    shortestPath(g, s, f) ;
-    
-    dropGraph(g) ;
+    while (1) {
+        printf("------------------------------------------------------------------\n") ;
+        printf("MENU\n1. Find shortest path between 2 bus stops\n2. Exit program\n") ;
+        printf("------------------------------------------------------------------\n") ;
+        printf("Select task: ") ;
+        scanf("%d%*c", &task);
+        switch (task) {
+            case 1: {
+                char s[100], f[100] ;
+                char c ;
+                int i = 0;
+                printf("Enter starting stop: ") ;
+                while ((c = getc(stdin)) != '\n') {
+                    s[i] = c;
+                    i++ ;
+                }
+                s[i] = '\0' ;
+                standardize(s) ;
+                //printf("%s\n", s) ;
+                i = 0;
+                printf("Enter destination: ") ;
+                while ((c = getc(stdin)) != '\n') {
+                    f[i] = c;
+                    i++ ;
+                }
+                f[i] = '\0' ;
+                standardize(f) ;
+                //printf("%s\n", f);
+                shortestPath(g, s, f) ;
+            }
+                break;
+            case 2:
+                dropGraph(g) ;
+                return 0 ;
+                break;
+            default:
+                printf("Invalid task!!\n") ;
+                break;
+        }
+    }
     return 0 ;
 }
